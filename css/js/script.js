@@ -66,3 +66,4 @@ localStorage.setItem('idade', idade);
 const nomeSalvo = localStorage.getItem('nome');
 const idadeSalva = localStorage.getItem('idade');
 console.log(nomeSalvo, idadeSalva);
+
