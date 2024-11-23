@@ -101,22 +101,3 @@ button:hover {
 #resultado.baixa {
     color: orange;
 }
-
-@media (max-width: 600px) {
-    body {
-        padding: 10px;
-    }
-
-    #app {
-        width: 100%;
-        padding: 15px;
-    }
-
-    h1 {
-        font-size: 1.6em;
-    }
-
-    button {
-        width: 100%;
-    }
-}
